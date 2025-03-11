@@ -15,7 +15,9 @@ It will outdate any detection mechanism that are based on xilinx artifact, since
 # Anti-cheats
 
 VGK can make difference and validate it easily
-China AC also seems to know how to validate this specific clone, it will be unsafe
+
+China AC also seems to know how to validate this specific clone, it will be unsafe there or very risky to use.
+
 Faceit block totally this capture card, but safely blocked like the original device.
 
 
