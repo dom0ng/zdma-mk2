@@ -10,7 +10,7 @@ https://github.com/dom0ng/pcileech-multimedia-hd
 Variant of multimedia firmware exist since probably 2018 because skill issue.
 
 MK2 use a specific chipset (SmartVOD) but it's indeed a Xilinx based chipset / partnership.
-They do share 1:1 configuration space except SmartVOD will have a extended DSN cap (that are nulled).
+They do share 1:1 configuration space except SmartVOD will have a extended DSN cap (that are nulled) at 0x100.
 
 ![screenshot](https://github.com/dom0ng/zdma-mk2/blob/main/ithazdma.png)
 
