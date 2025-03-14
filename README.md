@@ -22,3 +22,7 @@ Faceit block totally this capture card, but safely blocked like the original dev
 
 
 This project was created to test current top Anti-Cheats against FPGA approach with minimal effort / knowledge with maximal success.
+For the vast majority of the lifetime of this project, it was considered as "whitelisted", triggering every is_xilinx detection based.
+
+# driver
+https://help.elgato.com/hc/fr/articles/360027961152-Pilotes-Windows-pour-les-produits-Elgato-Gaming
