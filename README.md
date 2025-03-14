@@ -3,7 +3,7 @@ FPGA card looks like an capture card, but hides inside pcileech-fpga researching
 
 ![screenshot](https://github.com/dom0ng/zdma-mk2/blob/main/4k60pro.jpg)
 
-# Backstory
+# Backstory :
 
 https://github.com/dom0ng/pcileech-multimedia-hd
 
@@ -19,7 +19,7 @@ This project got abused everywhere and was a top threat back days.
 It will outdate any detection mechanism that are based on xilinx artifact (Hello Bastian), since the whole original and legal device will have all of them.
 
 
-# Anti-cheats
+# Anti-cheats : 
 
 __VGK can make difference and validate it easily since January 2022.__
 Real device is indeed blocked here aswell since this time.
@@ -49,15 +49,15 @@ This threat is mostly patched on major company.
 
 It just showcase again that detecting rogue FPGA device can be very very challenging without involving false positive case.
 
-# Driver
+# Driver :
 https://help.elgato.com/hc/fr/articles/360027961152-Pilotes-Windows-pour-les-produits-Elgato-Gaming
 
-# Improvement
+# Improvement :
 https://github.com/dom0ng/sc0710
 
 You can eventually mimic more closely how the device behavior with the driver, theyre a open sourced Linux version.
 
-# Download
+# Download :
 
 ZDMA : https://github.com/dom0ng/zdma-mk2/blob/main/pcileech_tbx4_100t_top.bin
 
@@ -67,7 +67,7 @@ M2 Screamer :
 
 Consider this project as outdated.
 
-# Credit
+# Credit :
 
 aleks
 
@@ -82,3 +82,7 @@ rain
 kateno
 
 whole german scene
+
+# Buy :
+
+https://www.amazon.com/Elgato-Internal-Capture-ultra-low-latency/dp/B07VWXCXM7/ref=sr_1_1?sr=8-1
