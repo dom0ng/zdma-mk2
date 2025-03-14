@@ -11,6 +11,9 @@ Variant of multimedia firmware exist since probably 2018 because skill issue.
 
 MK2 use a specific chipset (SmartVOD) but it's indeed a Xilinx based board.
 
+![screenshot](https://github.com/dom0ng/zdma-mk2/blob/main/ithazdma.png)
+
+
 This project got abused everywhere and was a top threat back days.
 It will outdate any detection mechanism that are based on xilinx artifact, since the whole original and legal device will have all of them.
 
