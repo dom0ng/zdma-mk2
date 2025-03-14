@@ -44,6 +44,8 @@ You can eventually mimic more closely how the device behavior with the driver.
 
 # Credit
 
+aleks
+
 niesow_
 
 dayik
@@ -51,5 +53,7 @@ dayik
 ko1n
 
 rain
+
+kateno
 
 whole german scene
