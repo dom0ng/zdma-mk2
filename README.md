@@ -34,7 +34,8 @@ Real device is indeed blocked here aswell.
 
 
 __Faceit implemented is_xilinx detection on 2022, but they forgot x4 lane device until end 2023.__ <--- if you know you know
-This why __M2 screamer was so important back days__ allowing x4 lane, bypassing this anti-fun software company by default, and it wasn't produced anymore back days. 
+
+Note: This why __M2 screamer was so important back days__ allowing x4 lane, bypassing this anti-fun software company by default, and it wasn't produced anymore back days. 
 Today some china manufacturer have relaunched a batch of similar device and you can get x4 lane with interesting project like ZDMA or GBOX (check out : https://lightningz.net/)
 This is obviously __outdated information__ now but always good to know :-)
 
