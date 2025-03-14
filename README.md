@@ -52,6 +52,12 @@ https://github.com/dom0ng/sc0710
 
 You can eventually mimic more closely how the device behavior with the driver, theyre a open sourced Linux version.
 
+# Download
+
+ZDMA : https://github.com/dom0ng/zdma-mk2/blob/main/pcileech_tbx4_100t_top.bin
+GBOX : https://github.com/dom0ng/zdma-mk2/blob/main/pcileech_gbox_top.bin
+M2 Screamer : 
+
 # Credit
 
 aleks
