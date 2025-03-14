@@ -40,7 +40,7 @@ Today some china manufacturer have relaunched a batch of similar device and you 
 This is obviously __outdated information__ now but always good to know :-)
 
 This project was created to test current top Anti-Cheats against FPGA approach with minimal effort / knowledge with maximal success.
-For the vast majority of the lifetime of this project, __it was considered as "whitelisted".__
+For the vast majority of the lifespan of this project, __it was considered as "whitelisted".__
 Aka Triggering every is_xilinx detection based mechanism but didn't caused specific ban or issue.
 
 This threat is mostly patched on major company.
