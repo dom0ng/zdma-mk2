@@ -56,8 +56,12 @@ You can eventually mimic more closely how the device behavior with the driver, t
 # Download
 
 ZDMA : https://github.com/dom0ng/zdma-mk2/blob/main/pcileech_tbx4_100t_top.bin
+
 GBOX : https://github.com/dom0ng/zdma-mk2/blob/main/pcileech_gbox_top.bin
+
 M2 Screamer : 
+
+Consider this project as outdated.
 
 # Credit
 
