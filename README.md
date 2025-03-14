@@ -21,23 +21,28 @@ It will outdate any detection mechanism that are based on xilinx artifact, since
 
 # Anti-cheats
 
-VGK can make difference and validate it easily since January 2022.
+__VGK can make difference and validate it easily since January 2022.__
 Real device is indeed blocked here aswell since this time.
 
-China AC also seems to know how to validate this specific clone, it will be unsafe there or very risky to use since October 2024.
+![screenshot](https://github.com/dom0ng/zdma-mk2/blob/main/riotontop.PNG)
+
+China AC also seems to know how to validate this specific clone, it will be __unsafe there or very risky to use since October 2024.__
 Real device are still allowed.
 
-Faceit block totally this capture card, but safely blocked like the original device since 2023.
+__Faceit block totally this capture card, but safely blocked like the original device since 2023.__
 Real device is indeed blocked here aswell.
 
 
-Faceit implemented is_xilinx detection on 2021 or 2022, but they forgot x4 lane device. <--- if you know you know
-This why M2 screamer was so important back days, and it wasn't produced anymore back days. Today some china manufacturer have relaunched a batch of similar device and you can get x4 lane with interesting project like ZDMA or GBOX (check out : https://lightningz.net/)
-This is obviously outdated information now but always good to know :-)
+__Faceit implemented is_xilinx detection on 2022, but they forgot x4 lane device until end 2023.__ <--- if you know you know
+This why __M2 screamer was so important back days__ allowing x4 lane, bypassing this anti-fun software company by default, and it wasn't produced anymore back days. 
+Today some china manufacturer have relaunched a batch of similar device and you can get x4 lane with interesting project like ZDMA or GBOX (check out : https://lightningz.net/)
+This is obviously __outdated information__ now but always good to know :-)
 
 This project was created to test current top Anti-Cheats against FPGA approach with minimal effort / knowledge with maximal success.
-For the vast majority of the lifetime of this project, it was considered as "whitelisted".
-Triggering every is_xilinx detection based mechanism.
+For the vast majority of the lifetime of this project, __it was considered as "whitelisted".__
+Aka Triggering every is_xilinx detection based mechanism but didn't caused specific ban or issue.
+
+This threat is mostly patched on major company.
 
 # Driver
 https://help.elgato.com/hc/fr/articles/360027961152-Pilotes-Windows-pour-les-produits-Elgato-Gaming
