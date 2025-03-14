@@ -26,6 +26,10 @@ Real device are still allowed.
 Faceit block totally this capture card, but safely blocked like the original device since 2023.
 Real device is indeed blocked here aswell.
 
+Faceit implemented is_xilinx detection on 2021 or 2022, but they forgot x4 lane device. <--- if you know you know
+This why M2 screamer was so important back days, and it wasn't produced anymore back days. Today some china manufacturer have relaunched a batch of similar device and you can get x4 lane with interesting project like ZDMA or GBOX (check out : https://lightningz.net/)
+This is obviously outdated information now but always good to know :-)
+
 This project was created to test current top Anti-Cheats against FPGA approach with minimal effort / knowledge with maximal success.
 For the vast majority of the lifetime of this project, it was considered as "whitelisted".
 Triggering every is_xilinx detection based mechanism.
