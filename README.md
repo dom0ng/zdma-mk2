@@ -16,7 +16,7 @@ They do share 1:1 configuration space except SmartVOD will have a extended DSN c
 
 
 This project got abused everywhere and was a top threat back days.
-It will outdate any detection mechanism that are based on xilinx artifact, since the whole original and legal device will have all of them.
+It will outdate any detection mechanism that are based on xilinx artifact (Hello Bastian), since the whole original and legal device will have all of them.
 
 
 # Anti-cheats
