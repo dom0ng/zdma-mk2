@@ -39,6 +39,7 @@ __Faceit implemented is_xilinx detection/prevention mechanism on 2022, but they 
 
 Note: This why __M2 screamer was so important back days__ allowing x4 lane, bypassing this anti-fun software company by default, and it wasn't produced anymore back days. 
 Today some china manufacturer have relaunched a batch of similar device and you can get x4 lane with interesting project like ZDMA or GBOX (check out : https://lightningz.net/)
+
 This is obviously __outdated information__ now but always good to know :-)
 
 This project was created to test current top Anti-Cheats against FPGA approach with minimal effort / knowledge with maximal success.
