@@ -27,7 +27,7 @@ Real device is indeed blocked here aswell since this time.
 ![screenshot](https://github.com/dom0ng/zdma-mk2/blob/main/riotontop.PNG)
 
 China AC also seems to know how to validate this specific clone, it will be __unsafe there or very risky to use since October 2024.__
-Real device are still allowed. -> This is very interesting.
+Real device are still allowed. -> This is very interesting, are they checking for some odd capture card behavior (that card don't handle ?) or any pcileech specific behavior :)) :)) :))
 
 __Faceit block totally this capture card, but safely blocked like the original device since 2023.__
 Real device is indeed blocked here aswell.
