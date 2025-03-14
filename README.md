@@ -35,7 +35,7 @@ __Faceit block totally this capture card, but safely blocked like the original d
 Real device is indeed blocked here aswell.
 
 
-__Faceit implemented is_xilinx detection on 2022, but they forgot x4 lane device until end 2023.__ <--- if you know you know
+__Faceit implemented is_xilinx detection/prevention mechanism on 2022, but they forgot x4 lane device until end 2023.__ <--- if you know you know
 
 Note: This why __M2 screamer was so important back days__ allowing x4 lane, bypassing this anti-fun software company by default, and it wasn't produced anymore back days. 
 Today some china manufacturer have relaunched a batch of similar device and you can get x4 lane with interesting project like ZDMA or GBOX (check out : https://lightningz.net/)
