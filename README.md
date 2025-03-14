@@ -1,10 +1,13 @@
 # zdma-mk2
 FPGA card looks like an capture card, but hides inside pcileech-fpga researching tool.
 
+![screenshot](https://github.com/dom0ng/zdma-mk2/blob/main/4k60pro.jpg)
+
 # Backstory
 
 https://github.com/dom0ng/pcileech-multimedia-hd
-variant of multimedia firmware exist since probably 2018
+
+Variant of multimedia firmware exist since probably 2018 because skill issue.
 
 MK2 use a specific chipset (SmartVOD) but it's indeed a Xilinx based board.
 
