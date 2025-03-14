@@ -39,6 +39,7 @@ __Faceit implemented is_xilinx detection/prevention mechanism on 2022, but they 
 
 Note: This why __M2 screamer was so important back days__ allowing x4 lane, bypassing this anti-fun software company by default, and it wasn't produced anymore back days. 
 Today some china manufacturer have relaunched a batch of similar device and you can get x4 lane with interesting project like ZDMA or GBOX (check out : https://lightningz.net/)
+Spoofing a x4 lane on a x1 lane is eventually possible, but the upper port will still be negociated at x1, making this kind of setup totally useless (useless = detectable, upper port at x1 negociated but lower port at x4 ? :D) and are eventually caught by drvscan-like tools.
 
 This is obviously __outdated information__ now but always good to know :-)
 
