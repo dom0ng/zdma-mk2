@@ -6,6 +6,7 @@ FPGA card looks like an capture card, but hides inside pcileech-fpga researching
 # Backstory :
 
 https://github.com/dom0ng/pcileech-multimedia-hd
+https://www.unknowncheats.me/forum/anti-cheat-bypass/623718-pcileech-multimedia.html
 
 Variant of multimedia firmware exist since probably 2018 because skill issue.
 
