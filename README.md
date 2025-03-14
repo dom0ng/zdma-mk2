@@ -17,8 +17,8 @@ It will outdate any detection mechanism that are based on xilinx artifact, since
 
 # Anti-cheats
 
-VGK can make difference and validate it easily since 2023.
-Real device is indeed blocked here aswell.
+VGK can make difference and validate it easily since January 2022.
+Real device is indeed blocked here aswell since this time.
 
 China AC also seems to know how to validate this specific clone, it will be unsafe there or very risky to use since October 2024.
 Real device are still allowed.
@@ -41,3 +41,9 @@ https://help.elgato.com/hc/fr/articles/360027961152-Pilotes-Windows-pour-les-pro
 https://github.com/dom0ng/sc0710
 
 You can eventually mimic more closely how the device behavior with the driver. 
+
+# Credit
+
+niesow_
+dayik
+ko1n
