@@ -47,6 +47,8 @@ It got abused at fairly some impressive level.
 
 This threat is mostly patched on major company.
 
+It just showcase again that detecting rogue FPGA device can be very very challenging without involving false positive case.
+
 # Driver
 https://help.elgato.com/hc/fr/articles/360027961152-Pilotes-Windows-pour-les-produits-Elgato-Gaming
 
