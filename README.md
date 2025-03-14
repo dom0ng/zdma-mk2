@@ -45,5 +45,11 @@ You can eventually mimic more closely how the device behavior with the driver.
 # Credit
 
 niesow_
+
 dayik
+
 ko1n
+
+rain
+
+whole german scene
