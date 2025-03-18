@@ -79,8 +79,6 @@ aleks
 
 niesow_
 
-dayik
-
 ko1n
 
 rain
@@ -88,6 +86,8 @@ rain
 kateno
 
 whole german scene
+
+every credits here are legit player, credited for moral support.
 
 # Buy :
 
