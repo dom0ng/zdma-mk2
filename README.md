@@ -61,7 +61,7 @@ https://help.elgato.com/hc/fr/articles/360027961152-Pilotes-Windows-pour-les-pro
 # Improvement :
 https://github.com/dom0ng/sc0710
 
-You can eventually mimic more closely how the device behavior with the driver, theyre a open sourced Linux version.
+You can eventually mimic more closely how the device behavior with the driver, theyre a open sourced reversed Linux version.
 
 # Download :
 
