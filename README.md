@@ -23,6 +23,11 @@ It will outdate any detection mechanism that are based on xilinx artifact (Hello
 
 # Anti-cheats : 
 
+EAC (on Intel) can differenciate and validate this device aswell,
+They are cool enough to not have pressed any ban button yet since the original and legal card can hahe faulty firmware behavior,
+
+Consider this project ( at least the public version ) as fully outdated.
+
 __VGK can make difference and validate it easily since January 2022.__
 Real device is indeed blocked here aswell since this time.
 
