@@ -23,7 +23,7 @@ It will outdate any detection mechanism that are based on xilinx artifact (Hello
 
 # Anti-cheats : 
 
-EAC (on Intel) can differenciate and validate this device aswell,
+EAC (on Intel) can differenciate and validate this device aswell since ~May 2025.
 They are cool enough to not have pressed any ban button yet since the original and legal card can have faulty firmware behavior.
 The original is allowed when the clone is blocked.
 +Rep
